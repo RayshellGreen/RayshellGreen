@@ -1,8 +1,6 @@
 # Hello, I'm CHANGEME
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a Army veteran, girls dad, and sophmore at American Military University pursuing a Bachlors in Cybersecurity. I am always looking forward to networking and taking courses so please reach out any time! 
 
 ## Objective
